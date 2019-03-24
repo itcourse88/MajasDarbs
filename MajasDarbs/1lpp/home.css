@@ -1,0 +1,22 @@
+.container{
+padding-right: 0px;
+padding-left: 0px;
+margin-right: 10;
+margin-left: 10;
+}
+.card {
+    display:inline-block;}
+
+.card{
+        overflow: hidden;
+      }
+      
+.card-text{
+    font-size:12px;
+    }
+
+/* .carousel {
+ /* width:640px;
+ height:360px; */
+ /* margin:auto;
+} */ 

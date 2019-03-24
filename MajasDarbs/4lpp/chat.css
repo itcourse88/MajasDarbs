@@ -1,0 +1,15 @@
+.breadcrumb {
+    padding: 2px 15px !important;
+    font-size: 10px;
+
+}
+
+div.static {
+    position: static;
+    border: 3px solid rgb(153, 153, 235);
+    height: 300px;
+    width: 1000px;
+  }
+
+
+

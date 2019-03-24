@@ -1,0 +1,21 @@
+.breadcrumb {
+    padding: 2px 15px !important;
+    font-size: 10px;
+
+}
+.container{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 10;
+    margin-left: 10;
+    }
+
+    ul {
+        list-style: none;
+      }
+      
+      .tab-switcher {
+        display: inline-block;
+        cursor: pointer;
+        margin-right: 25px;
+      }
